@@ -1,3 +1,5 @@
 Hello, this is my first time using Git
 
 testing the git commit
+
+retesting my git knowledge
